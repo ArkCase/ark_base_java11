@@ -5,11 +5,3 @@ RUN  yum -y install java-11-openjdk && \
 
 ENV JAVA_HOME /usr/lib/jvm/java-11-openjdk
 ENV JRE_HOME /usr/lib/jvm/jre
-
-
-
-
-
-
-
-
